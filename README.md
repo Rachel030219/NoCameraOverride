@@ -8,7 +8,7 @@ A module to prevent Android SystemUI from forcing the camera gesture to launch a
 
 Install the module and reboot. That's it.
 
-You can modify the file [MainHook.kt#L39](https://github.com/Rachel030219/NoCameraOverride/tree/master/app/src/main/java/com/rachel/NoCameraOverride/MainHook.kt#L39) to change the package name of the camera app you want to use, or leave it empty so that you can choose one from the camera apps on device.
+You can modify the file [MainHook.kt#L39](https://github.com/Rachel030219/NoCameraOverride/blob/master/app/src/main/java/one/rachelt/nocameraoverride/MainHook.kt#L39) to change the package name of the camera app you want to use, or leave it empty so that you can choose one from the camera apps on device.
 
 ## How it works
 
